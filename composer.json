@@ -1,0 +1,13 @@
+{
+    "name": "sedaaydin360drc/greetings",
+    "description": "TEST",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sedaaydin360drc",
+            "email": "seda.aydin@360drctech.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
