@@ -2,6 +2,11 @@
     "name": "sedaaydin360drc/greetings",
     "description": "TEST",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "sedaaydin360drc\\greetings\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "sedaaydin360drc",

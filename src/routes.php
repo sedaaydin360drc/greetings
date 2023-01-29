@@ -1,3 +1,6 @@
 <?php
 
-\Illuminate\Support\Facades\Route::get('/greetings', [\sedaaydin360drc\greetings\PackageController::class, 'index']);
+use Illuminate\Support\Facades\Route;
+use sedaaydin360drc\greetings\PackageController;
+
+Route::get('/greetings', [PackageController::class, 'index']);
